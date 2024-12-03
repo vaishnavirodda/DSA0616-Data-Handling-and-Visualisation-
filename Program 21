@@ -1,0 +1,13 @@
+# Total employees and Marketing department percentage
+
+total_employees = 200
+
+marketing_percentage = 59
+
+
+
+# Calculate the number of employees in the Marketing department
+
+marketing_employees = (marketing_percentage / 100) * total_employees
+
+marketing_employees
